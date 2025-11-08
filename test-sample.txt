@@ -1,0 +1,25 @@
+Grammar Test Document
+
+This document contains intentional grammar errors for testing the Grammar Checker AI application.
+
+Sentence 1: Their is a problem with this sentence because "their" should be "there".
+
+Sentence 2: Me and my friend goes to the store every day. This sentence have multiple errors.
+
+Sentence 3: The students was very happy about they're test results.
+
+Sentence 4: She don't know nothing about the meeting yesterday.
+
+Sentence 5: Between you and I, this grammar checker is very helpfull for finding mistakes.
+
+Sentence 6: The team are working hard to complete there project before the deadline.
+
+Sentence 7: Each of the employees have submitted their reports on time.
+
+Sentence 8: Its important to remember that your going to need to bring you're materials.
+
+Sentence 9: The data shows that there is less people attending the conference this year.
+
+Sentence 10: Could of, should of, and would of are common mistakes that people makes.
+
+This text can be used to test the grammar checking capabilities of the application. Simply load this file or copy its contents into the text area and click "Check Grammar" to see the AI identify and suggest corrections for all these errors.
